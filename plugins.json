@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-20",
-  "total": 926,
+  "total": 927,
   "platforms": [
     "codex",
     "grok",
@@ -4529,6 +4529,20 @@
       "source": "awesome-ai-plugins",
       "platform": "agent-skills",
       "installation_url": "https://github.com/leeguooooo/profile-use#readme",
+      "ecosystems": [
+        "agent-skills"
+      ]
+    },
+    {
+      "name": "ui-craft",
+      "url": "https://github.com/educlopez/ui-craft",
+      "owner": "educlopez",
+      "repo": "ui-craft",
+      "description": "Design engineering skill collection for AI coding agents with slash commands, review agents, and MCP quality gates",
+      "category": "Agent Skills",
+      "source": "awesome-ai-plugins",
+      "platform": "agent-skills",
+      "installation_url": "https://github.com/educlopez/ui-craft#readme",
       "ecosystems": [
         "agent-skills"
       ]

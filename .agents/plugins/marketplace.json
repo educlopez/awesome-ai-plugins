@@ -4843,6 +4843,21 @@
       "installation_url": "https://github.com/leeguooooo/profile-use#readme"
     },
     {
+      "name": "ui-craft",
+      "displayName": "ui-craft",
+      "description": "Design engineering skill collection for AI coding agents with slash commands, review agents, and MCP quality gates",
+      "category": "Agent Skills",
+      "source": "awesome-ai-plugins",
+      "platform": "agent-skills",
+      "ecosystems": [
+        "agent-skills"
+      ],
+      "owner": "educlopez",
+      "repo": "ui-craft",
+      "url": "https://github.com/educlopez/ui-craft",
+      "installation_url": "https://github.com/educlopez/ui-craft#readme"
+    },
+    {
       "name": "vibes-plug",
       "displayName": "vibes-plug",
       "description": "Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
